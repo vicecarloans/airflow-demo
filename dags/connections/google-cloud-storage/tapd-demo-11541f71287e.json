@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tapd-demo",
+  "private_key_id": "11541f71287e5e98052cdde798ac0321fe5f5c2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/V4bFeA0++mRb\nwGS1pa1v3e9AKVEaPsmezmzYmtHc66V80q1wBJkaWeDrxCwHdxIoItmlfQjZIqR/\n5IUP7FjHYFlLjq1jFUJXiMXj5RhzZ5/uj6obPo0PQu/Cmpm0SbCQ2A8+NPsrsTt2\nIMweG8RV4knPGvPQr5xOAF2NR1CCAhrGuXwr0yqDI9pmHQ+lOKQ29CUBeBzz10Wo\nv9w3JDhERp1IV7gq8enQVBPB/WKjYKvS3JfPK5bsRkAeQP3fU6/vCds6ikhBFpzz\nAoyucaCkGLUhbQvo6JJ0r8LbSwL1hQhiVCWrCYGoJ/t1ARGQtBrC0XUV8MEI1GSK\nRDJod4iTAgMBAAECggEAJnCBBL6/en13F++oy81C8IxXej5SqsEeZCb4OvOvYYB9\nuHvil/R0hZS02OiKJ93F6gZGTza1RlntTjwsdyx2EWfLyKAbOSKWN1uk1cm6hcS1\nnomCFQMV95Ds9d11L4D2VcLyHP8rznVGis6/8vSFFvPk/BRgEvaUoh70rGM9S0Cj\n3Ps1GIc4TdJ0F0LeHGnWEwOBOoCXNBMuhrVumjcxwlRnscFKnWNvxNJHxDzLzIIg\n4FN3yl4k4ZFL/sHyi7OiHN8zd7oKRwijNZMse7QznrZat8FVPsSeFOUaY3g/ZqVK\nXbeI7QtvdD5wgOGu/SeIiNUH6s3RtZiVbtuCaHqSgQKBgQDsjIH/kkXqgkOIsaMK\ndo5Hkhg25LNgwVLcK2I5YjdiREIGhGJ4FVA3jsOa7eMP/6LuDCiiZ4rsWaFXEN9s\nmBgjpd8JZwbS7C2xOOoh90mvFYQK4bCALbolIYO9RBf5i4TSuf7kGdEGrd7MlmLY\nRYJp6RjEgBVv+lsSr5J5anrEcwKBgQDPE2K6jblBTivDfzhjsbgeaBXUaEDzBDuk\nDqb+B/NAwcs6hRiDvInB9jy8Dk6qWH6FdRvxZwupc1/udOb3j4WiIY2+hQwIdpGw\nsNUjsFZZpHmmH+zTSIDQdcJgf+6Trr3O21snlCtJoo53kIb4pT+oXaNdVEvtKh4b\ndfSzvhNDYQKBgQDM9Z36JPKhlEcR3ODpQvpa9zI19gma70dtb8XG9NwKMByJaxGq\n/MSprvC7gB27EgRJgI2A0nij+7F5MCx2+n4H/UP48KUQAwZARZFQ5uSYaOslRpJZ\nLcXZQGXWi3a+iW4H7JL3b4sW33ZqDHAO9oNeY1NLh7OLeACLe0dOHr3LEwKBgQDG\nCs5DiMOCV5a3U/bEMfXa7sTh7gsf4A6CKpk/Hq9gYXdSMnRtmWVOoYcYe750YEow\nrP3adCjNGNDIp/k1DohJtTlw2qHVfkB78cMGbOFIvmqxnJrMvuyjcdxCmle72kUh\njtyxD54OwG7snsbXCoPFLDjPS42J9tvwe3FabhDSQQKBgErxtMPWRPokPBzccKsZ\nXtjwh6wZBDltTjwmdG3hVHTlxPCSH1IrXJ5sEVHISe9cV4T/WkSjD1nVB4fGscIe\nop1H2M7V2gzUkSdSNdgCYRUUDf+wQT8ZSLpFAULx8zv2OEpfe1GfPQm7i9/VfxTZ\nm1dq5Fbw942PFyxsCUXsK2tU\n-----END PRIVATE KEY-----\n",
+  "client_email": "airflow@tapd-demo.iam.gserviceaccount.com",
+  "client_id": "109654681836831751211",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow%40tapd-demo.iam.gserviceaccount.com"
+}

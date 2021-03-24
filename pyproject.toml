@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "airflow-demo"
+version = "0.1.0"
+description = ""
+authors = ["Huy Dam <huy@tactable.io>"]
+
+[tool.poetry.dependencies]
+python = "^3.6.10"
+pandas = "1.1.0"
+apache-airflow = "1.10.14"
+gcsfs = "^0.7.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
